@@ -9,3 +9,6 @@ A fork is like cloning but you use it when cloning from the github website. Clon
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You have up to date data so you can work on your project offline. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+The only way I can think off is collaborating over email or being together in person. I believe both of these ways will be harder becuase we will take more time to collaborate over email and in person
