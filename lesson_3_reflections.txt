@@ -4,3 +4,6 @@ When you are on a computer that is not yours but you still need to access your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You can control what is being saved on your local repository and this will make sure your local repository is not being culttered by different projects.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork is like cloning but you use it when cloning from the github website. Cloning is copying a repository from remote repository and saving it on your local computer. Branches is created on a single repository usually on your local repository.
+
