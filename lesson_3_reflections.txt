@@ -12,3 +12,6 @@ You have up to date data so you can work on your project offline.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 The only way I can think off is collaborating over email or being together in person. I believe both of these ways will be harder becuase we will take more time to collaborate over email and in person
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you are collaborating with others on a project and you want their input on something new to add. By adding a new branch this makes sure the new addition will not affect the orginial project is something goes wrong. 
